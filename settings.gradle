@@ -1,0 +1,2 @@
+include ':app', ':skinattr-lib', ':skin-plugin', ':skinview-lib', ':daynight-app', ':skinview-app'
+rootProject.name='ui-skin'
